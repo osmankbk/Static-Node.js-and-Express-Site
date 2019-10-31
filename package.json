@@ -1,0 +1,25 @@
+{
+  "name": "techdegree-project-6",
+  "version": "0.0.1",
+  "description": "Static Node.js and Express Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osmankbk/TechDegree-PROJECT-6.git"
+  },
+  "keywords": [
+    "osmankbk"
+  ],
+  "author": "OSMAN KAMARA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osmankbk/TechDegree-PROJECT-6/issues"
+  },
+  "homepage": "https://github.com/osmankbk/TechDegree-PROJECT-6#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
