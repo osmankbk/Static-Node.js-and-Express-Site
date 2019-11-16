@@ -1,0 +1,48 @@
+{
+  "projects": [
+  { "id": 0,
+    "project_name": "A Random Quote Generator",
+    "description": "Generates random quotes at set interal or with the click of the quote generator button",
+    "technologies": ["JavaScript", "HTML", "CSS"],
+    "live_link": "https://osmankbk.github.io/TechDegree-PROJECT-1-RENEWED",
+    "github_link": "https://github.com/osmankbk/TechDegree-PROJECT-1-RENEWED",
+    "image_urls": ["images/Random-1.png", "images/Random-2.png"]
+
+  },
+  { "id": 1,
+    "project_name": "list Pagination and Filtering",
+    "description": "Paginate a long list of users on one page into six pages of ten users per page",
+    "technologies": ["JavaScript", "HTML", "CSS"],
+    "live_link": "https://osmankbk.github.io/TechDegree-PROJECT-2",
+    "github_link": "https://github.com/osmankbk/TechDegree-PROJECT-2",
+    "image_urls": ["images/Paginate-1.png", "images/Paginate-2.png", "images/Paginate-3.png"]
+
+  },
+  { "id": 2,
+    "project_name": "Interactive Form",
+    "description": "An engaging and interactive form that collects users information",
+    "technologies": ["JQuery, HTML, CSS"],
+    "live_link": "https://osmankbk.github.io/TechDegree-PROJECT-3",
+    "github_link": "https://github.com/osmankbk/TechDegree-PROJECT-3",
+    "image_urls": ["images/Form-1.png", "images/Form-2.png", "images/Form-3.png"]
+
+  },
+  { "id": 3,
+    "project_name": "OOP Game Show App",
+    "description": "A browser based, word guessing game",
+    "technologies": ["JavaScript, OOP, HTML, CSS"],
+    "live_link": "https://osmankbk.github.io/TechDegree-PROJECT-4",
+    "github_link": "https://github.com/osmankbk/TechDegree-PROJECT-4",
+    "image_urls": ["images/Game-1.png", "images/Game-2.png", "images/Game-3.png"]
+
+  },
+  { "id": 4,
+    "project_name": "Public API Request",
+    "description": "An employee directory that communicates with a third-party API(Application-Programming-Interface)",
+    "technologies":  ["JavaScript, HTML, CSS"],
+    "live_link": "https://osmankbk.github.io/TechDegree-PROJECT-5",
+    "github_link": "https://github.com/osmankbk/TechDegree-PROJECT-5",
+    "image_urls": ["images/API-1.png", "images/API-2.png", "images/API-3.png"]
+  }
+  ]
+}
