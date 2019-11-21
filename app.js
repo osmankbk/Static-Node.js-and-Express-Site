@@ -13,7 +13,7 @@ const routes = require('./routes');
 
 app.use(routes);
 app.use('/static', express.static('public'));
-app.use('/static', express.static('images'))
+
 
 app.use((req, res, next) => {
   const err = new Error(`Page Not Found`);
