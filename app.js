@@ -1,3 +1,9 @@
+/* Treehouse FSJS Techdegree
+ * Project 6 - Static Node.js and Express Site
+ * app.js
+  Goal: Exceed Expectation
+  */
+
 const express = require('express');
 const bodyParser = require('body-parser');
 
