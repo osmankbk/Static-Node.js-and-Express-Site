@@ -65,7 +65,8 @@ a:hover{
 
   .portfolio-me p{
     font-size: 14px;
-    color: #999;
+    font-style: oblique;
+    color: red;
   }
 
   .portfolio-me a{
@@ -150,3 +151,4 @@ a:hover{
 }
 body{
   background-color: #FFE4E1;
+}
