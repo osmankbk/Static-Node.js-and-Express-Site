@@ -30,6 +30,7 @@ app.use((req, res, next) => {
 app.use((err, req, res, next) => {
   res.locals.error = err;
   res.status(err.status);
+  console.log('Error/Error');
   res.render('error');
 });
 app.listen(3000, () =>{

@@ -6,7 +6,7 @@
     "technologies": ["JavaScript", "HTML", "CSS"],
     "live_link": "https://osmankbk.github.io/techdegree-1",
     "github_link": "https://github.com/osmankbk/TechDegree-PROJECT-1-RENEWED",
-    "image_urls": ["static/images/Random-0.png", "static/images/Random-1.png", "static/images/Random-2.png", "static/images/Random-3.png"]
+    "image_urls": ["/static/images/Random-0.png", "static/images/Random-1.png", "static/images/Random-2.png", "static/images/Random-3.png"]
 
   },
   { "id": 1,
@@ -15,7 +15,7 @@
     "technologies": ["JavaScript", "HTML", "CSS"],
     "live_link": "https://osmankbk.github.io/techdegree-2",
     "github_link": "https://github.com/osmankbk/TechDegree-PROJECT-2",
-    "image_urls": ["static/images/Paginat-0.png", "static/images/Paginat-1.png", "static/images/Paginat-2.png", "static/images/Paginat-3.png"]
+    "image_urls": ["/static/images/Paginat-0.png", "static/images/Paginat-1.png", "static/images/Paginat-2.png", "static/images/Paginat-3.png"]
 
   },
   { "id": 2,
@@ -24,7 +24,7 @@
     "technologies": ["JQuery", "HTML", "CSS"],
     "live_link": "https://osmankbk.github.io/techdegree-3",
     "github_link": "https://github.com/osmankbk/TechDegree-PROJECT-3",
-    "image_urls": ["static/images/Form-0.png", "static/images/Form-1.png", "static/images/Form-2.png", "static/images/Form-3.png"]
+    "image_urls": ["/static/images/Form-0.png", "static/images/Form-1.png", "static/images/Form-2.png", "static/images/Form-3.png"]
 
   },
   { "id": 3,
@@ -33,7 +33,7 @@
     "technologies": ["JavaScript", "OOP", "HTML", "CSS"],
     "live_link": "https://osmankbk.github.io/techdegree-4",
     "github_link": "https://github.com/osmankbk/TechDegree-PROJECT-4",
-    "image_urls": ["static/images/Game-0.png", "static/images/Game-1.png", "static/images/Game-2.png", "static/images/Game-3.png"]
+    "image_urls": ["/static/images/Game-0.png", "static/images/Game-1.png", "static/images/Game-2.png", "static/images/Game-3.png"]
 
   },
   { "id": 4,
@@ -42,7 +42,7 @@
     "technologies":  ["JavaScript", "HTML", "CSS"],
     "live_link": "https://osmankbk.github.io/techdegree-5",
     "github_link": "https://github.com/osmankbk/TechDegree-PROJECT-5",
-    "image_urls": ["static/images/API-0.png", "static/images/API-1.png", "static/images/API-2.png", "static/images/API-3.png"]
+    "image_urls": ["/static/images/API-0.png", "static/images/API-1.png", "static/images/API-2.png", "static/images/API-3.png"]
   }
   ]
 }
