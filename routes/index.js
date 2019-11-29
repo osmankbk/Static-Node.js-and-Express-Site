@@ -18,9 +18,8 @@ router.get('/project/:id', (req, res, next) => {
   if(project){
     res.render('project', { project });
   } else {
-    res.sendStatus(404);
+    res.send("Page Not Found! Please navigate back to the index page or enter a valaid page ID");
   }
-
 });
 
 module.exports = router;

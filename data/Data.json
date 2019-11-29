@@ -15,7 +15,7 @@
     "technologies": ["JavaScript", "HTML", "CSS"],
     "live_link": "https://osmankbk.github.io/techdegree-2",
     "github_link": "https://github.com/osmankbk/TechDegree-PROJECT-2",
-    "image_urls": ["/static/images/Paginat-0.png", "static/images/Paginat-1.png", "static/images/Paginat-2.png", "static/images/Paginat-3.png"]
+    "image_urls": ["/static/images/Paginat-0.png", "/static/images/Paginat-1.png", "/static/images/Paginat-2.png", "/static/images/Paginat-3.png"]
 
   },
   { "id": 2,

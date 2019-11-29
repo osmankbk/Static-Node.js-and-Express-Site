@@ -24,7 +24,7 @@ app.use((req, res, next) => {
 app.use((err, req, res, next) => {
   res.locals.error = err;
   res.status(err.status);
-  console.log('Error/Error');
+  console.log('Error: Page not found! Please navigate back to the index page or enter a valaid page ID');
   res.render('error');
 });
 app.listen(3000, () =>{
